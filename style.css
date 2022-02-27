@@ -1,0 +1,15 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.session button{
+    margin-top: 4px;
+    border: 1px solid #000;
+    margin-left: 4px;
+}
+.local button{
+    margin-top: 20px;
+    border: 1px solid #000;
+    margin-left: 4px;
+}
